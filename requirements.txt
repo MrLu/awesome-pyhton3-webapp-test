@@ -1,0 +1,8 @@
+Collecting aiomysql
+  Downloading https://files.pythonhosted.org/packages/48/09/cd26d86cc43c19f0c5861ab980e04bebd867632b952ade8fc4ca28d6a951/aiomysql-0.0.14.tar.gz (60kB)
+Collecting PyMySQL>=0.7.5 (from aiomysql)
+  Downloading https://files.pythonhosted.org/packages/e5/07/c0f249aa0b7b0517b5843eeab689b9ccc6a6bb0536fc9d95e65901e6f2ac/PyMySQL-0.8.0-py2.py3-none-any.whl (83kB)
+Installing collected packages: PyMySQL, aiomysql
+  Running setup.py install for aiomysql: started
+    Running setup.py install for aiomysql: finished with status 'done'
+Successfully installed PyMySQL-0.8.0 aiomysql-0.0.14
